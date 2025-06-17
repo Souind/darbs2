@@ -1051,6 +1051,16 @@ footer {
   .about-explore-p {
     width: 65%;
   }
+  .projects-img1{
+    background-image: url(Ozols2.avif);
+    width: 100%;
+    
+    height: 200px; /* You must set a specified height */
+    border-radius: 10px 10px 0 0 ;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
   
 }
 
